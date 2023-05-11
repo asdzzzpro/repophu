@@ -1,0 +1,51 @@
+Hệ thống shop thời trang không gian ảo
+-ý tưởng: người dùng tham gia shop với mô hình tạo dựng dựa trên shop thật
+-Thiết kế đồ họa 3d cho không gian shop, tạo hình nhân vật 3d người dùng
+(đc phép đi lại và thao tác 1 số hành động liên quan đến mua/bán, xem, thử,
+  sửa các sản phẩm, đặt may, khiếu nại, ...)
+Xây dựng phối và thử đồ trực tuyến thông qua hình ảnh
+- Hệ thống hỗ trợ khách hàng onl thông qua các thông tin do khách hàng cung cấp (ảnh,
+số đo 3.. à thôi, chiều cao, cân nặng, nhu cầu,..) => tạo hình + phối đồ dựa trên các yêu cầu
+===========================================================================================================
+Phát triển hướng 2
+Khoa 1
+Tài 2
+Huy 3
+Minh 4
+Phúc 5
+Lâm 6
+Thắng 7
+8 để sau
+=====
+3_
+năng động#
+sức trẻ #
+tính cách năng lực đa dạng#
+số lượng tv phù hợp đội nhóm => phù hợp đảm nhiệm nhiều vị trí
+đưa ra nhiều định hướng cho mỗi mảng#
+sáng tạo #
+môi trường mở ( dễ tranh + thảo luận) -> kq tốt
+
+
+yếu: thiếu kn > nỗ lực
+
+========
+tính sống còn - bền vững:
+http://giaoducdaihoc.moet.edu.vn/vi/about/Tinh-ben-vung-cua-Du-an-POHE-2.html
+
+==========
+financial: giá thành thời trang đắt đỏ, chi phí vận chuyển cao (từ nhiều tỉnh hoặc nước ngoài), phụ thu cao.
+productivity: sản phẩm (quần áo) có chất lượng vải kém, mặc vào gây khó chịu, mẫu sản phẩm lỗi thời, khó sử dụng(*), độ bền không tốt(đổ màu, phai màu, dễ hư hỏng,..)
+process: web thương mại điện tử khó đăng nhập, khó thanh toán, điền rất nhiều thông tin mới có thể đặt hàng được, quy trình quản lý sản phẩm rất lằng nhằng
+support: không thể mặc thử sản phẩm khi đặt hàng online, không được hỗ trợ tư vấn khi mua hàng hoặc thanh toán bằng các loại hình khác nhau(thẻ, smartbanking, momo,...), vấn đề bảo hành.
+
+============
+Unity Pro là công cụ mạnh mẽ cho việc tạo và vận hành trải nghiệm 3D. Unity 3D engine sở hữu nền tảng phát triển thời gian thực Core Unity mang theo
+nhiều tính năng cốt lõi để tạo và tối ưu hóa các trò chơi cao cấp và trải nghiệm tương tác đi kèm với việc xây dựng một lần và triển khai trên các nền tảng được hỗ trợ với hỗ trợ đa nền tảng hàng đầu trong ngành của Unity.
+Hỗ trợ nâng cấp liên tục vào các bản cập nhật công nghệ mới và cải thiện hiệu suất.
+Unity 3D hỗ trợ thêm plugin Bolt Visual Scripting tạo kịch bản trực quan cho Unity để tải xuống từ Asset Store để tạo công cụ trực quan, tránh gặp phức tạp khi xây dựng phần mềm
+Ngoài ra Unity còn bao hàm một số công cụ cộng tác dưới đây:
+-Unity Cloud Diagnostics: Cloud Code và Cloud Save Beta sử dụng để phát triển logic phần mềm và lưu trữ thông qua cloud
+-Xây dựng và triển khai cho các nền tảng như Windows, MacOS, Linux, ... để dễ dàng tiếp cận người sử dụng hơn
+-Services Core API: cung cấp giải pháp khởi tạo tất cả các Unity Services nhằm thống nhất trải nghiệm khi làm việc với Unity 3D Engine
+-Unity Ads SDK: cung cấp các framework kiếm tiền dựa trên việc hợp lý hóa quảng cáo, mua hàng trong ứng dụngsử dụng công nghệ machine learning tiên tiến để tối đa hóa doanh thu trong khi vẫn duy trì trải nghiệm người chơi.
